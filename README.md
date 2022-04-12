@@ -1,0 +1,2 @@
+# arm_linux_uart_ctrl_led
+arm板子上运行linux使用串口控制led
